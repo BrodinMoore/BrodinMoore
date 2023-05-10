@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World!
+## I'm Brodin Moore, I am currently studying programming through the Tech Elevator summer bootcamp!
+## I have a deep interest in coding and Ai and seek to learn and improve upon my skills throughout the coming months.
+## A personal project that I would like to try would be creating an Ai chatbot that can actively communicate with a user through speech to text.
+## Another would be to create a controller for a cross-spherical gear.
+## I'm greatly looking forward to the next few months and hope this repository will reflect my progress!
 
 <!--
 **BrodinMoore/BrodinMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
